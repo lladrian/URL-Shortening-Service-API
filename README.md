@@ -32,7 +32,7 @@ of times a short URL has been accessed.
     - Usage:  `http://localhost:4000/shorten`
       - Search via Web: 
 
-          ## USER
+          ## SHORT URL SERVICE
           - **POST** - **`http://localhost:4000/shorten`** to add new user.
           - **GET** - **`http://localhost:4000/shorten/:short_code`** to get all users.
           - **GET** - **`http://localhost:4000/shorten/:short_code/stats`** to get all users.

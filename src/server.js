@@ -19,7 +19,7 @@ connectDB();
 
 // Start the server
 app.listen(port, () => {
-    console.log(`Weather API is running on http://localhost:${port}`);
+    console.log(`Server is running on http://localhost:${port}`);
 });
 
 export default app;

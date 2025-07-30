@@ -1,4 +1,4 @@
-# API Expense Tracker
+# API URL Shortening Service
 
 A simple RESTful API that allows users to shorten long URLs. The API provide 
 endpoints to CRUD operation for short URLs. It also provide statistics on the number 
